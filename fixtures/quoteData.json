@@ -1,0 +1,18 @@
+{
+        "validData": {
+                "firstName": "Bob",
+                "lastName": "Jeffery",
+                "businessName": "Some Business Ltd",
+                "businessPostcode": "AA11 2BB",
+                "emailAddress": "some_address@email.com",
+                "telephoneNumber": "07111223344"
+        },
+        "invalidData": {
+                "firstName": "Bob1",
+                "lastName": "Jeffery1",
+                "businessName": " ",
+                "businessPostcode": "AA2 BB",
+                "emailAddress": "someaddressemailcom",
+                "telephoneNumber": "11111111111"
+        }
+}
